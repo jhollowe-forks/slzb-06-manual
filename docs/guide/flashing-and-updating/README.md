@@ -11,5 +11,5 @@ There are two main modules in SLZB-06 that can be flashed and updated, these are
 
 
 ::: tip
-Both ESP32 and CC2652P modules can be updated remotelly. You do not need to have physicall access to the device. Please read the next sections for updating both chips.
+Both ESP32 and CC2652P modules can be updated remotely. You do not need to have physical access to the device. Please read the next sections for updating both chips.
 :::
