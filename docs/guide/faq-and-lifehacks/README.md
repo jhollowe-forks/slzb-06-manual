@@ -73,7 +73,7 @@ You can run ESPHome firmware on your SLZB-06 device. Follow this [official repos
 Simple. 
 1. Download a [router firmware](https://github.com/Koenkk/Z-Stack-firmware/tree/master/router/Z-Stack_3.x.0/bin) - you have to use `...other_router`
 2. Flash it using the manual in section [Flashing and Updating](https://smlight.tech/manual/slzb-06/guide/flashing-and-updating/updating-cc2652p.html#over-the-air-ethernet-update);
-3. Power the device On. It will start in a pairing mode so add it to your current zigbee network. If you want to re-pair it, go to the web-interface, sectionn `SYstem and Tools` and press `Router reconnect` at the `System control` tab.
+3. Power the device On. It will start in a pairing mode so add it to your current zigbee network. If you want to re-pair it, go to the web-interface, section `System and Tools` and press `Router reconnect` at the `System control` tab.
 
 :::  warning
 chapter to be added
